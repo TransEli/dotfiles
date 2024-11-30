@@ -1,6 +1,9 @@
 font-size = 14
+#font-family = "Recursive Monospace Casual"
 
 background-opacity = 0.6
 theme = lovelace
+
+custom-shader = ./glow.glsl
 
 gtk-titlebar = false
